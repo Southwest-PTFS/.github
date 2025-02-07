@@ -1,3 +1,5 @@
+![Southwest Banner]()
+ 
  **Southwest Airlines PTFS**
 
 > Welcome to Southwest Airlines PTFS, one of the top-rated airline carriers in the United States. Whether you're planning a quick getaway or a cross-country adventure, we're here to take you there with unbeatable fares and unmatched onboard service. 
@@ -11,7 +13,9 @@
 
 **Low Fares. Nothing to hide. That's TransFarency!”**
 
+https://discord.gg/ZGGu6fTrxE
 
-**Join**: https://discord.gg/ZGGu6fTrxE
+![Southwest Advert]()
 
 **NOTE**: We are not affiliated with the real Southwest Airlines and are simply a fan recreation of the brand.
+

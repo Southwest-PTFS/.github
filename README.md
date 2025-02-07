@@ -1,4 +1,4 @@
-![Southwest Banner]()
+![Southwest Banner](https://github.com/Southwest-PTFS/.github/blob/main/NewsBanner.png)
  
  **Southwest Airlines PTFS**
 
@@ -15,7 +15,7 @@
 
 https://discord.gg/ZGGu6fTrxE
 
-![Southwest Advert]()
+![Southwest Advert](https://github.com/Southwest-PTFS/.github/blob/main/transfarencynew.png)
 
 **NOTE**: We are not affiliated with the real Southwest Airlines and are simply a fan recreation of the brand.
 

@@ -11,7 +11,7 @@
 
 **Low Fares. Nothing to hide. That's TransFarency!”**
 
-[https://discord.gg/ZGGu6fTrxE](<Join Discord>)
+**Join**: https://discord.gg/ZGGu6fTrxE
 
 
 **NOTE**: We are not affiliated with the real Southwest Airlines and are simply a fan recreation of the brand.

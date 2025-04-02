@@ -1,4 +1,4 @@
-** 🇺🇸 | Southwest Airlines**
+**🇺🇸 | Southwest Airlines**
 
 > Welcome to Southwest, one of the top rated airline carriers in the United States. Whether you're planning a quick getaway or a cross-country adventure, we're here to take you there with unbeatable fares and unmatched onboard service. 
 

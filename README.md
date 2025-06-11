@@ -1,6 +1,6 @@
-![Banner](<https://github.com/Southwest-PTFS/.github/blob/main/NewsBanner25.png?raw=true>)
+![Banner](<https://github.com/Southwest-PTFS/.github/blob/main/WebMetabanner.png>)
 
-**🇺🇸 | Southwest Airlines**
+**Southwest Airlines**
 
 > Welcome to Southwest, one of the top-rated airline carriers in the United States. Whether you're planning a quick getaway or a cross-country adventure, we're here to take you there with unbeatable fares and unmatched onboard service. 
 
@@ -14,4 +14,4 @@
 **“Low Fares. Nothing to hide. That's TransFarency!” 💙❤️💛**
 https://discord.gg/ZGGu6fTrxE
 
-![Advertisement](<https://github.com/Southwest-PTFS/.github/blob/main/Advertisements.png?raw=true>)
+![Advertisement](<https://github.com/Southwest-PTFS/.github/blob/main/Aloha.png>)

@@ -1,17 +1,19 @@
-![Banner](<https://github.com/Southwest-PTFS/.github/blob/main/NewsBanner25.png?raw=true>)
+![Banner]()
 
-**🇺🇸 | Southwest Airlines**
+# 🇺🇸 Southwest PTFS • Tech
 
-> Welcome to Southwest, one of the top-rated airline carriers in the United States. Whether you're planning a quick getaway or a cross-country adventure, we're here to take you there with unbeatable fares and unmatched onboard service. 
+Welcome to the **Southwest PTFS Technology Organization**.  
+Welcome to our shared space to **store, archive, and collaborate** on the work that powers our virtual airline. Think of it as our hangar for code, configs, and experiments.
 
-**Why Southwest?**
-- Extensive Network: Discover the USA with over 100 Destinations Nationwide
-- Excellence onboard: Experience the best journey with your favorite low-cost carrier
-- Huge Fleet: Fly onboard one out of 800+ safety-vetted Aircraft
-- Career Opportunities: Join our amazing staff team with tons of positions and build valuable career experience!
-- Quality over Quantity: We take pride in making sure your flight experience is the best it can be. 
+---
 
-**“Low Fares. Nothing to hide. That's TransFarency!” 💙❤️💛**
-https://discord.gg/ZGGu6fTrxE
+## What This Org Is
+- A **central repo hub** for projects, prototypes, and archived tools.
+- A **record of our development history** — from performance calculators to bots to infrastructure experiments.
+- A **collaboration space** for SWA staff working on tech-related ideas.
 
-![Advertisement](<https://github.com/Southwest-PTFS/.github/blob/main/Advertisements.png?raw=true>)
+## What This Org Is Not
+- It’s **not a product storefront** or polished tools directory.  
+- Code here is primarily for **internal use, reference, and experimentation**.  
+- Not all projects are maintained or in active use.
+- Any projects that are visible are open source under certain terms.

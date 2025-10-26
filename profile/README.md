@@ -3,7 +3,7 @@
 # 🇺🇸 Southwest PTFS • Tech
 
 Welcome to the **Southwest PTFS Technology Organization**.  
-Welcome to our shared space to **store, archive, and collaborate** on the work that powers our virtual airline. Think of it as our hangar for code, configs, and experiments.
+> This is our shared space to **store, archive, and collaborate** on the work that powers our virtual airline. Think of it as our hangar for code, configs, and experiments.
 
 ---
 
@@ -17,3 +17,4 @@ Welcome to our shared space to **store, archive, and collaborate** on the work t
 - Code here is primarily for **internal use, reference, and experimentation**.  
 - Not all projects are maintained or in active use.
 - Any projects that are visible are open source under certain terms.
+- You will not recieve any support for items here unless said otherwise.

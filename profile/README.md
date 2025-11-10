@@ -1,9 +1,9 @@
-![Banner](https://github.com/Southwest-PTFS/.github/blob/main/WebMetabanner.png)
+![Banner](https://github.com/Southwest-PTFS/.github/blob/main/Meta3.png)
 
 # 🇺🇸 Southwest PTFS • Tech
 
 Welcome to the **Southwest PTFS Technology Organization**.  
-> This is our shared space to **store, archive, and collaborate** on the work that powers our virtual airline. Think of it as our hangar for code, configs, and experiments.
+This is our shared space to store, archive, and collaborate on the work that powers our virtual airline. Think of it as our hangar for code, configs, and experiments.
 
 ---
 
@@ -17,4 +17,4 @@ Welcome to the **Southwest PTFS Technology Organization**.
 - Code here is primarily for **internal use, reference, and experimentation**.  
 - Not all projects are maintained or in active use.
 - Any projects that are visible are open source under certain terms.
-- You will not recieve any support for items here unless said otherwise.
+- You will not receive any support for items here unless said otherwise.
